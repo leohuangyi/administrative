@@ -1,0 +1,15 @@
+{
+  "name": "administrative",
+  "version": "1.0.0",
+  "description": "'通过搜狗地图webservice api将中国的行政区划导出到sql文件中'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leo",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "request": "^2.67.0"
+  }
+}
