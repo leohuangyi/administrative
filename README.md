@@ -1,4 +1,8 @@
-# 通过搜狗地图webserve api 生成中国的行政区划sql文件
+# 如果仅需要省市区请使用政府的数据发布来完成这个需求
+http://www.mca.gov.cn/article/sj/tjbz/a/2017/1123/11233.html
+
+
+# 通过搜狗地图webserve api 生成中国的行政区划sql文件(省/市/区/街道)
 
 ## 启动命令
 ```
